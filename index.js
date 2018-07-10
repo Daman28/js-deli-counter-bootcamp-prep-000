@@ -25,6 +25,6 @@ function currentLine(arr) {
     return "The line is currently empty.";
   }
   else {
-      return "The line is currently: 1. " + arr[i] + ", " + "2. " +arr[i+1] + "," + "3. " + arr[i+2]; 
+      return "The line is currently: 1. " + arr[i] + ", " + "2. " +arr[i+1] + "," + " 3. " + arr[i+2]; 
     }
 }
